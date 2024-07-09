@@ -1,0 +1,8 @@
+C:\Users\asare\source\repos\DrawingApplication\bin\Debug\DrawingApplication.exe.config
+C:\Users\asare\source\repos\DrawingApplication\bin\Debug\DrawingApplication.exe
+C:\Users\asare\source\repos\DrawingApplication\bin\Debug\DrawingApplication.pdb
+C:\Users\asare\source\repos\DrawingApplication\obj\Debug\DrawingApplication.Properties.Resources.resources
+C:\Users\asare\source\repos\DrawingApplication\obj\Debug\DrawingApplication.csproj.GenerateResource.cache
+C:\Users\asare\source\repos\DrawingApplication\obj\Debug\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\asare\source\repos\DrawingApplication\obj\Debug\DrawingApplication.exe
+C:\Users\asare\source\repos\DrawingApplication\obj\Debug\DrawingApplication.pdb
