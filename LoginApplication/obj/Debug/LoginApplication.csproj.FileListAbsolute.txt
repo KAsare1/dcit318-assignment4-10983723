@@ -1,0 +1,9 @@
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.cache
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.Form1.resources
+C:\Users\asare\source\repos\LoginApplication\bin\Debug\LoginApplication.exe.config
+C:\Users\asare\source\repos\LoginApplication\bin\Debug\LoginApplication.exe
+C:\Users\asare\source\repos\LoginApplication\bin\Debug\LoginApplication.pdb
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.exe
+C:\Users\asare\source\repos\LoginApplication\obj\Debug\LoginApplication.pdb
