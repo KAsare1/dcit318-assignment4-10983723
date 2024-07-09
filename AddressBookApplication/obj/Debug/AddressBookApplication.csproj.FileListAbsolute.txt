@@ -1,0 +1,9 @@
+C:\Users\asare\source\repos\AddressBookApplication\bin\Debug\AddressBookApplication.exe.config
+C:\Users\asare\source\repos\AddressBookApplication\bin\Debug\AddressBookApplication.exe
+C:\Users\asare\source\repos\AddressBookApplication\bin\Debug\AddressBookApplication.pdb
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.Properties.Resources.resources
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.GenerateResource.cache
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.exe
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.pdb
+C:\Users\asare\source\repos\AddressBookApplication\obj\Debug\AddressBookApplication.csproj.AssemblyReference.cache
